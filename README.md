@@ -8,4 +8,5 @@ I am an IT Project manager and passionate Data and AI projects.
 - Machine Learning
 - Artificial Intelligence
 - Quantum Computing
-                                                  See you! ;-)
+
+See you! ;-)
